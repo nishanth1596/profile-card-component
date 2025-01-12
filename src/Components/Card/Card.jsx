@@ -8,9 +8,7 @@ import bottomSvg from "../../assets/bg-pattern-bottom.svg";
 function Card() {
   return (
     <div className={styles.container}>
-      <div>
-        <img src={topSvg} alt="" className={styles.hidden} />
-      </div>
+
 
       <div className={styles.imgContainer}>
         <img className={styles.cardImg} src={cardImg} alt="" />
@@ -34,9 +32,7 @@ function Card() {
         </p>
       </div>
 
-      <div>
-        <img src={bottomSvg} alt="" className={styles.hidden1} />{" "}
-      </div>
+
     </div>
   );
 }

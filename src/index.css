@@ -83,9 +83,9 @@ body {
   letter-spacing: 0px;
   background-color: var(--c-19a1a3);
   background-image: url("./assets/bg-pattern-top.svg"),
-    url("./assets/bg-pattern-bottom.svg");
+  url("./assets/bg-pattern-bottom.svg");
   background-repeat: no-repeat, no-repeat;
-  background-position: top -30rem left -20rem, bottom -30rem right -20rem;
+  background-position: top -37rem left -25rem, bottom -40rem right -24rem;
 }
 
 :root {

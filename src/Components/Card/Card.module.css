@@ -16,23 +16,6 @@
   /* position: relative; */
 }
 
-.hidden {
-  /* display: none; */
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  transform: translate(-50%, -50%);
-}
-
-.hidden1 {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: -1;
-  transform: translate(50%, 50%);
-}
-
 .imgContainer {
   position: relative;
 }

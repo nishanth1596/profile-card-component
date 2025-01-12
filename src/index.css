@@ -79,9 +79,13 @@ select {
 }
 
 body {
-  background-color: var(--c-19a1a3);
   font-family: var(--ff-kumbh-default);
   letter-spacing: 0px;
+  background-color: var(--c-19a1a3);
+  background-image: url("./assets/bg-pattern-top.svg"),
+    url("./assets/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: top -30rem left -20rem, bottom -30rem right -20rem;
 }
 
 :root {

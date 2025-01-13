@@ -55,9 +55,9 @@ To run this project locally:
    npm install
 
 4. Start the development server:
-   npm start
+   npm run dev
 
-5. Open the project in your browser at http://localhost:3000.
+5. Open the project in your browser at http://localhost:5173
 
 ## Usage
 
